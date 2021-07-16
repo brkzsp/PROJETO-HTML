@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="" />
+  <img src="./img/capa-github.png" />
 </p>
 
 ### 🛠 Tecnologias
