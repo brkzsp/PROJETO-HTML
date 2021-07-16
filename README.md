@@ -5,6 +5,10 @@
   <img src="./img/capa-github.png" />
 </p>
 
+<p align="center">
+  <img src="./img/capa-github.png" />
+</p>
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
