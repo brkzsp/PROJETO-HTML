@@ -6,7 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="./img/capa-github.png" />
+  <img src="./img/capa-github2.png" />
+</p>
+
+<p align="center">
+  <img src="./img/capa-github3.png" />
 </p>
 
 ### 🛠 Tecnologias
