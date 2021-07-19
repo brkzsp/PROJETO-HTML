@@ -1,12 +1,14 @@
-<h1 align="center">SITE TODO EM HTML</h1>
-
-
 <p align="center">
-  <img src="./img/capa-github.png" />
+  <a href="https://snake-js-psi.vercel.app/">
+    <img src="./snake-game/img/ICON.png" height="100" width="100" alt="Unform" />
+  </a>
 </p>
 
+<h1 align="center">SNAKE GAME</h1>
+
+
 <p align="center">
-  <img src="./img/capa-github.png" />
+  <img src="./snake-game/img/CAPAA.png" alt="Unform" />
 </p>
 
 ### 🛠 Tecnologias
@@ -14,6 +16,8 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ### Autor
 ---
