@@ -8,7 +8,15 @@
 
 
 <p align="center">
+<<<<<<< HEAD
   <img src="./snake-game/img/CAPAA.png" alt="Unform" />
+=======
+  <img src="./img/capa-github2.png" />
+</p>
+
+<p align="center">
+  <img src="./img/capa-github3.png" />
+>>>>>>> 61c12b9e6480f903b72ab15c511e848155f5a70b
 </p>
 
 ### 🛠 Tecnologias
@@ -30,5 +38,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito por Kauê Gois Braga 👋🏽 Entre em contato para fazer um networking!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kaue-blue?style=flat-square&logo=Linkedin&logoColor=white&https:/https://www.linkedin.com/in/kau%C3%AA-braga//)](https://https://www.linkedin.com/in/kau%C3%AA-braga//) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kaue-blue?style=flat-square&logo=Linkedin&logoColor=white&https:https://www.linkedin.com/in/kau%C3%AA-braga/)](https://www.linkedin.com/in/kau%C3%AA-braga/) 
 [![Gmail Badge](https://img.shields.io/badge/-kauebragagg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauebragagg@gmail.com)](mailto:kauebragagg@gmail.com)
