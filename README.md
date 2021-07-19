@@ -7,9 +7,6 @@
 
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="./snake-game/img/CAPAA.png" alt="Unform" />
-=======
   <img src="./img/capa-github2.png" />
 </p>
 
