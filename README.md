@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="./img/capa-github3.png" />
->>>>>>> 61c12b9e6480f903b72ab15c511e848155f5a70b
 </p>
 
 ### 🛠 Tecnologias
@@ -20,8 +19,6 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ### Autor
 ---
